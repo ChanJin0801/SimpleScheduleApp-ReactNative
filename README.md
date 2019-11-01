@@ -1,7 +1,5 @@
 # simpleScheduleApp-ReactNative
-
-This react native app is simple weather app. It shows the weather image for current location.
-
+This react native app is simple schedule app. Add and subtraction are possible.
 
 
-<img width="350" alt="Screen Shot 2019-11-01 at 1 42 03 PM" src="https://user-images.githubusercontent.com/40285946/68002958-b1dbec80-fcae-11e9-8443-4699d1e1e6dd.png">
+<img width="345" alt="Screen Shot 2019-11-01 at 1 46 55 PM" src="https://user-images.githubusercontent.com/40285946/68003148-80175580-fcaf-11e9-874c-3f13858f24ad.png">
